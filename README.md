@@ -5,6 +5,7 @@ Pokemon list app, using React.js, Apollo, Graphql
 
 ### Clone the repository
 `git clone https://github.com/TulkasAstaldo/pokemon.git`
+
 `cd pokemon`
 
 ### Install npm dependancies
