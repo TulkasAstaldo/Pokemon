@@ -1,5 +1,5 @@
 ## Pokemon list app
-Pokemon list app, using Apollo, Graphql
+Pokemon list app, using React.js, Apollo, Graphql
 
 ## Getting started
 
